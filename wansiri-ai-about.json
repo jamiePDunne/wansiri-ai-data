@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Wansiri AI",
+  "url": "https://wansiri.ai",
+  "description": [
+    "Wansiri AI is developed by QTS Asia Limited, founded by Jamie Dunne.",
+    "The platform was developed to address the limitations of manual crypto trading signal subscriptions, which required frequent user adjustments on most retail trading platforms.",
+    "Wansiri AI’s Win Agents use statistical models trained on historical data to generate trading signals for baskets of cryptocurrency pairs. These signals are delivered through webhooks, integrating with downstream platforms. The system is designed to maintain a statistical advantage over time without requiring ongoing user intervention.",
+    "Transparency is ensured through a live paper trading account on Altrady, using publicly available bots. Performance data is accessible in real-time, allowing users to evaluate results independently and make decisions based on their own empirical research."
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Jamie Dunne",
+    "jobTitle": "Founder, QTS Asia Limited & Wansiri AI",
+    "description": "Jamie Dunne created Wansiri AI to streamline cryptocurrency trading. Observing the inefficiencies of manual trading signal subscriptions, he developed a platform that delivers automated, data-driven signals through webhooks, designed to maintain a statistical advantage without the need for user intervention.",
+    "url": "https://www.linkedin.com/in/jamiedunne/"
+  },
+  "disclaimer": "Wansiri AI provides data-driven tools and information for educational purposes only and does not offer financial or investment advice. Cryptocurrency trading involves significant risks, and past performance does not guarantee future results. Users are solely responsible for conducting their own research and making trading decisions. QTS Asia Limited and Wansiri AI are not liable for any financial losses."
+}

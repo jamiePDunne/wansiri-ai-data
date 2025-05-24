@@ -1,0 +1,263 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Wansiri AI Altrady Bot Setup Instructions",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Step 1: Set up your Winner1 Altrady Bot",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Log in or sign up for a free Altrady account: https://www.altrady.com/?a=U3i4tYfZxk48kv4T"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Go to Altrady - Bots (left sidebar menu)."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Click '+ Create' at top right."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Choose Signal Bot and click 'Create Bot'."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - General: Signals = Webhook, Account = 'Binance Paper' (test without real money), Currency = USDT, Bot name = Winner1. Save your API key and secret."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - Filters: Max concurrent positions = 45, Max positions per market = 3, 24h volume min = 1."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Entry Settings: Order = Fixed amount, Initial order size = 20, Entry price deviation % = 0.5."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Scroll down and press 'Save Settings'."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "You have successfully set up your Winner1 Altrady Bot."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Learn how the strategies work: https://www.youtube.com/embed/RyO_7_0e9q4"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Paper Trading Performance: https://app.altrady.com/signal_bot_share/ef21c954-c1fb-4080-ba9c-f97050cd6eb1"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Back testing metrics: https://www.youtube.com/embed/9baiJrBUE54"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 2: Set up your Winner2 Altrady Bot",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Log in or sign up for a free Altrady account: https://www.altrady.com/?a=U3i4tYfZxk48kv4T"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Go to Altrady - Bots (left sidebar menu)."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Click '+ Create' at top right."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Choose Signal Bot and click 'Create Bot'."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - General: Signals = Webhook, Account = 'Binance Paper' (test mode), Currency = USDT, Bot name = Winner2. Save your API key and secret."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - Filters: Max concurrent positions = 45, Max positions per market = 3, 24h volume min = 1."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Entry Settings: Order = Fixed amount, Initial order size = 20, Entry price deviation % = 0.5."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Scroll down and press 'Save Settings'."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "You have successfully set up your Winner2 Altrady Bot."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Learn how the strategies work: https://www.youtube.com/embed/RyO_7_0e9q4"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Paper Trading Performance: https://app.altrady.com/signal_bot_share/6c4b6cdf-bd64-4bb7-993c-f0afd4eaa4d6"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Back testing metrics: https://www.youtube.com/embed/9baiJrBUE54"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 3: Set up your Wansiri Pro 1 Altrady Bot",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Log in or sign up for a free Altrady account: https://www.altrady.com/?a=U3i4tYfZxk48kv4T"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Go to Altrady - Bots (left sidebar menu)."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Click '+ Create' at top right."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Choose Signal Bot and click 'Create Bot'."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - General: Signals = Webhook, Account = 'Binance Paper', Currency = USDT, Bot name = My Wansiri Pro 1. Save your API key and secret."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - Filters: Max concurrent positions = 45, Max positions per market = 45, 24h volume min = 1."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Entry Settings: Order = Fixed amount, Initial order size = 20, Entry price deviation % = 0.5."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Scroll down and press 'Save Settings'."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "You have successfully set up your My Wansiri Pro 1 Altrady Bot."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Learn how the strategies work: https://www.youtube.com/embed/RyO_7_0e9q4"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Paper Trading Performance: https://app.altrady.com/signal_bot_share/21d0866f-2c0b-4ce0-9c6f-d6d4339e287b"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Back testing metrics: https://www.youtube.com/embed/example-backtest1"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 4: Set up your Wansiri Pro 2 Altrady Bot",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Log in or sign up for a free Altrady account: https://www.altrady.com/?a=U3i4tYfZxk48kv4T"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Go to Altrady - Bots (left sidebar menu)."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Click '+ Create' at top right."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Choose Signal Bot and click 'Create Bot'."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - General: Signals = Webhook, Account = 'Binance Paper', Currency = USDT, Bot name = My Wansiri Pro 2. Save your API key and secret."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Settings - Filters: Max concurrent positions = 45, Max positions per market = 45, 24h volume min = 1."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Entry Settings: Order = Fixed amount, Initial order size = 20, Entry price deviation % = 0.5."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Scroll down and press 'Save Settings'."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "You have successfully set up your My Wansiri Pro 2 Altrady Bot."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Learn how the strategies work: https://www.youtube.com/embed/RyO_7_0e9q4"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Paper Trading Performance: https://app.altrady.com/signal_bot_share/f3849052-cfe1-4832-b71e-4fbf0900b5f4"
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "View Back testing metrics: https://www.youtube.com/embed/example-backtest2"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Step 5: Connect your Altrady Bots to the Wansiri AI Dashboard",
+      "itemListElement": [
+        {
+          "@type": "HowToDirection",
+          "text": "Select a strategy (Winner1, Winner2, or Wansiri Pro) and click 'Add to My Strategies' in the Dashboard."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Enter your Altrady Bot API Key and Secret."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Press 'Save' to store your API credentials."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Press 'Start' to begin sending alerts to your Altrady Bot."
+        },
+        {
+          "@type": "HowToDirection",
+          "text": "Press 'Stop' to halt sending alerts."
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Additional Notes",
+      "itemListElement": [
+        {
+          "@type": "HowToTip",
+          "text": "Before using bots with real funds, thoroughly test on Binance Paper account to avoid financial risk."
+        },
+        {
+          "@type": "HowToTip",
+          "text": "Ensure you save your API keys securely and never share them publicly."
+        }
+      ]
+    }
+  ]
+}
