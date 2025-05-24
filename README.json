@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Wansiri AI - How to Get Started with Data-Driven Crypto Basket Trading",
+  "description": "Step-by-step guide to access and use Wansiri AI's proprietary Win Agents for basket trading of crypto pairs, integrated with Altrady.",
+  "totalTime": "PT10M",
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Wansiri AI account"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Altrady account"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Altrady webhook bot"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Dashboard integrated with Altrady"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "Create Your Account",
+      "text": "Sign up for a free Wansiri AI account and log in to start exploring the Win Agents dashboard.",
+      "itemListElement": [
+        {
+          "@type": "HowToTip",
+          "text": "Use a valid email address to receive important updates."
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Set Up Altrady Webhook",
+      "text": "Create an Altrady webhook bot to connect with Wansiri AI and enable real-time basket trading signals.",
+      "itemListElement": [
+        {
+          "@type": "HowToTip",
+          "text": "Ensure your webhook bot has appropriate permissions for trading actions."
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Connect to Dashboard",
+      "text": "Link your Altrady webhook bot to Wansiri Win Agents on the dashboard and start trading.",
+      "itemListElement": [
+        {
+          "@type": "HowToTip",
+          "text": "Check your dashboard regularly for real-time trading insights and performance metrics."
+        }
+      ]
+    }
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "Wansiri AI",
+    "description": "Wansiri AI offers proprietary Win Agents that model baskets of crypto pairs using advanced statistical modeling and backtesting. Access diversified, data-driven trading insights via a dashboard integrated with Altrady."
+  }
+}
